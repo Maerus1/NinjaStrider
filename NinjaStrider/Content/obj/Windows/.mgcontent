@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Mister Tonberry/source/repos/NinjaStrider/NinjaStrider/Content/Spritesheets/hero.png</File>
+    <File>C:/Users/Mister Tonberry/source/repos/NinjaStrider/NinjaStrider/Content/Images/about.jpg</File>
+    <File>C:/Users/Mister Tonberry/source/repos/NinjaStrider/NinjaStrider/Content/Images/background.gif</File>
+    <File>C:/Users/Mister Tonberry/source/repos/NinjaStrider/NinjaStrider/Content/Images/credits.jpg</File>
+    <File>C:/Users/Mister Tonberry/source/repos/NinjaStrider/NinjaStrider/Content/Images/foreground.png</File>
+    <File>C:/Users/Mister Tonberry/source/repos/NinjaStrider/NinjaStrider/Content/Images/gameover.jpg</File>
+    <File>C:/Users/Mister Tonberry/source/repos/NinjaStrider/NinjaStrider/Content/Images/health.png</File>
+    <File>C:/Users/Mister Tonberry/source/repos/NinjaStrider/NinjaStrider/Content/Images/help.jpg</File>
+    <File>C:/Users/Mister Tonberry/source/repos/NinjaStrider/NinjaStrider/Content/Images/highscores.jpg</File>
+    <File>C:/Users/Mister Tonberry/source/repos/NinjaStrider/NinjaStrider/Content/Images/infobar.jpg</File>
+    <File>C:/Users/Mister Tonberry/source/repos/NinjaStrider/NinjaStrider/Content/Images/mainscreen.jpg</File>
+    <File>C:/Users/Mister Tonberry/source/repos/NinjaStrider/NinjaStrider/Content/Images/enemy.png</File>
+    <File>C:/Users/Mister Tonberry/source/repos/NinjaStrider/NinjaStrider/Content/Fonts/mainFont.spritefont</File>
+    <File>C:/Users/Mister Tonberry/source/repos/NinjaStrider/NinjaStrider/Content/Fonts/regularFont.spritefont</File>
+    <File>C:/Users/Mister Tonberry/source/repos/NinjaStrider/NinjaStrider/Content/Fonts/scoreFont.spritefont</File>
+    <File>C:/Users/Mister Tonberry/source/repos/NinjaStrider/NinjaStrider/Content/Fonts/selectFont.spritefont</File>
+    <File>C:/Users/Mister Tonberry/source/repos/NinjaStrider/NinjaStrider/Content/Audio/damage.wav</File>
+    <File>C:/Users/Mister Tonberry/source/repos/NinjaStrider/NinjaStrider/Content/Audio/gameover.mp3</File>
+    <File>C:/Users/Mister Tonberry/source/repos/NinjaStrider/NinjaStrider/Content/Audio/jump.wav</File>
+    <File>C:/Users/Mister Tonberry/source/repos/NinjaStrider/NinjaStrider/Content/Audio/mainLevel.mp3</File>
+    <File>C:/Users/Mister Tonberry/source/repos/NinjaStrider/NinjaStrider/Content/Audio/mainmenu.mp3</File>
+  </SourceFiles>
+</SourceFileCollection>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Mister Tonberry/source/repos/NinjaStrider/NinjaStrider/Content/Audio/mainLevel.mp3</SourceFile>
+  <SourceTime>2018-01-06T13:54:46.4948653-05:00</SourceTime>
+  <DestFile>C:/Users/Mister Tonberry/source/repos/NinjaStrider/NinjaStrider/Content/bin/Windows/Audio/mainLevel.xnb</DestFile>
+  <DestTime>2018-01-20T12:21:03.2237015-05:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2017-03-01T10:05:36-05:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2017-03-01T10:05:36-05:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/Mister Tonberry/source/repos/NinjaStrider/NinjaStrider/Content/bin/Windows/Audio/mainLevel.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>

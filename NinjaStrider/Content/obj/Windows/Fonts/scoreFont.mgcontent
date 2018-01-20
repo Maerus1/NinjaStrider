@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Mister Tonberry/source/repos/NinjaStrider/NinjaStrider/Content/Fonts/scoreFont.spritefont</SourceFile>
+  <SourceTime>2018-01-06T18:50:15.7696711-05:00</SourceTime>
+  <DestFile>C:/Users/Mister Tonberry/source/repos/NinjaStrider/NinjaStrider/Content/bin/Windows/Fonts/scoreFont.xnb</DestFile>
+  <DestTime>2018-01-20T12:20:57.6506821-05:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2017-03-01T10:05:36-05:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2017-03-01T10:05:36-05:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

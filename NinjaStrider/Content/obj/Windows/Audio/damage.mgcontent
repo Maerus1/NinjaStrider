@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Mister Tonberry/source/repos/NinjaStrider/NinjaStrider/Content/Audio/damage.wav</SourceFile>
+  <SourceTime>2018-01-06T17:24:47.9395786-05:00</SourceTime>
+  <DestFile>C:/Users/Mister Tonberry/source/repos/NinjaStrider/NinjaStrider/Content/bin/Windows/Audio/damage.xnb</DestFile>
+  <DestTime>2018-01-20T12:20:58.3126334-05:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2017-03-01T10:05:36-05:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2017-03-01T10:05:36-05:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
